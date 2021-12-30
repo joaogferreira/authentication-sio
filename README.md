@@ -20,4 +20,7 @@ source venv/bin/python
 python client.py <file>
 ```
 
+## Authors
+[João Ferreira](https://github.com/joaogferreira)\
+[João Magalhães](https://github.com/jrsrm97/)
 
